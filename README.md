@@ -1,4 +1,9 @@
-# WordPress Weglot to WPML Migration Repository
+### WordPress Weglot to WPML Migration Repository
+
+# WPML XLIFF Auto AI Translator with Brand Voice
+https://github.com/arturmamedov/wp_wpml_ai_xliff_translator
+
+After this research a plugin was developed with success and a medium/big website with blog and custom posts/ACF was translated automatically using OpenAI 4o mini model with realy minimal costs.
 
 A comprehensive collection of automated solutions for migrating WordPress multilingual websites from Weglot to WPML, preserving SEO metadata and translation relationships.
 
