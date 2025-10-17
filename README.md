@@ -1,5 +1,10 @@
 ### WordPress Weglot to WPML Migration Repository
 
+[![YouTube video showing the Results](https://img.youtube.com/vi/vEgA6SR5mfs/0.jpg)](https://www.youtube.com/watch?v=vEgA6SR5mfs)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vEgA6SR5mfs
+" target="_blank">YouTube</a>
+
 # WPML XLIFF Auto AI Translator with Brand Voice
 https://github.com/arturmamedov/wp_wpml_ai_xliff_translator
 
